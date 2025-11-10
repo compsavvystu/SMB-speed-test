@@ -1,0 +1,18 @@
+# Test output files
+disk_speed_test_*.md
+nohup.out
+
+# Temporary files
+*.tmp
+*.lock
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
